@@ -31,7 +31,7 @@
 #   sub_category: nil
 # }
 
-def naming_system(hash)
+def naming_system
   hash = {label: "Kingdom",}
   
   # Remember:
