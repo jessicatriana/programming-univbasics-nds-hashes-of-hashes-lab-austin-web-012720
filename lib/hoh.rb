@@ -40,9 +40,9 @@ def naming_system
       label: "Class"
       }
   }
-# }
- 
 }
+
+hash[:label][:label][:label] = "Order"
   
   # Remember:
   #  Kingdom
