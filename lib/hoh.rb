@@ -6,8 +6,10 @@
 #
 naming_system = {
   PORTION_1 = {
-  
-}
+  label: "Kingdom",
+  sub_category: {
+    
+    
 # PORTION_1 = {
 #   label: "Kingdom",
 #   sub_category: {
