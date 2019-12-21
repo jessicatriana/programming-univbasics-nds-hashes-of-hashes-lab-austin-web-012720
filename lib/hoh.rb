@@ -12,6 +12,8 @@ naming_system = {
      sub_category: {
        label: "Class"
      }
+     
+     naming_system
     
 # PORTION_1 = {
 #   label: "Kingdom",
