@@ -4,6 +4,7 @@
 #
 # The tests will guide your construction.
 #
+naming_system = {}
 # PORTION_1 = {
 #   label: "Kingdom",
 #   sub_category: {
