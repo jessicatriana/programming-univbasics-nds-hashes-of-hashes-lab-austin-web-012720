@@ -32,7 +32,7 @@
 # }
 
 def naming_system(hash)
-  hash = {}
+  hash = {label: "Kingdom",}
   
   # Remember:
   #  Kingdom
