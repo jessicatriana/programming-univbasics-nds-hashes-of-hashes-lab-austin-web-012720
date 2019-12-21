@@ -32,13 +32,14 @@
 # }
 
 def naming_system
-  hash = {label: "Kingdom",
+  hash = {
+    label: "Kingdom",
+    sub_category: {
+            label: "Phylum",
             sub_category: {
-                  label: "Phylum",
-                      sub_category: {
-                         label: "Class"
-                             sub_category: {
-                                  label: "Order"
+                  label: "Class"
+                  sub_category: {
+                          label: "Order"
 }
   
   # Remember:
