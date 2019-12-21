@@ -42,7 +42,7 @@ def naming_system
   }
 }
 
-hash[:label][:label][:label] = "Order"
+
   
   # Remember:
   #  Kingdom
@@ -56,3 +56,4 @@ hash[:label][:label][:label] = "Order"
   # HoH all the way to Species!
 hash
 end
+hash[:label][:label][:label] = "Order"
